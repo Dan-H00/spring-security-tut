@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dan</groupId>
-    <artifactId>spring-security-tutorial</artifactId>
+    <artifactId>spring-security-tut</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -18,6 +18,7 @@
     <modules>
         <module>spring-security-client</module>
         <module>oauth-authorization-server</module>
+        <module>oauth-resource-server</module>
     </modules>
 
 </project>
